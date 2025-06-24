@@ -17,14 +17,14 @@ function Login() {
             <div className={styles.title}>
               <h1>Faça login na sua conta</h1>
               <h2>Bem vindo de volta</h2>
-            </div>S
+            </div>
 
             <div className={styles.input}>
               <label htmlFor="email">E-mail</label>
               <input type="email" id="email" />
             </div>
 
-            <div className={styles.input1}>S
+            <div className={styles.input1}>
               <label htmlFor="password">Senha</label>
               <input type="password" id="password" />
             </div>

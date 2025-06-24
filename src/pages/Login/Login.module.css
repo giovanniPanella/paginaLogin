@@ -156,6 +156,10 @@ input {
 
 }
 
+.button:hover {
+    background: var( --green300);
+}
+
 .button1 {
     font-family: Lato, sans-serif;
     padding: 15px;
@@ -171,6 +175,9 @@ input {
     font-weight: 400;
     background: var(--dark);
     margin-bottom: 30px;
+}
+.button1:hover {
+    background: var(--dark300);
 }
 
 .not_registered {
